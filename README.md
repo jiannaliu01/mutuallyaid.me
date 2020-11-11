@@ -13,4 +13,4 @@ University students' requests for aid have largely been circulated via social me
 **mutuallyaid.me** is a platform designed to consolidate aid requests within universities to increase visibility and accessibility. It is also an explicit request for those fortunate enough to spare personal finances in these times, to do so for their peers.
 
 ## Languages and libraries used 🔅
-We created **mutuallyaid.me** with [react.js][https://reactjs.org/], a JavaScript library for user interface development.
+We created **mutuallyaid.me** with [https://reactjs.org/](react.js), a JavaScript library for user interface development.
