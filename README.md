@@ -1,5 +1,6 @@
 # mutuallyaid.me 🔆
-### Developed by Jianna Liu (MIT '23), Christina Wang (Swathmore '22), Michelle Chen (Dartmouth '22), Leah Ryu (Dartmouth '22)
+
+Developed by Jianna Liu (MIT '23), Christina Wang (Swathmore '22), Michelle Chen (Dartmouth '22), and Leah Ryu (Dartmouth '22).
 
 ## Why mutual aid? 🔅
 The ongoing pandemic (COVID-19) has disproportionately affected vulnerable demographics, such as Black, Indigenous, and People of Colour, especially those from lower-income communities. Circumstances have only been exacerbated by the civil unrest that has swept the nation, propelled by racial injustice and carceral/policing power structures.
